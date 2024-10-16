@@ -49,3 +49,8 @@
 - Verify that the DAQmx drivers are installed and configured correctly.
 - If measurements appear incorrect, check the scaling factor in the voltage-to-millitesla conversion process.
 
+## Code:
+![image](https://github.com/user-attachments/assets/9991a11f-10a0-49a3-9e80-7835e256823d)
+
+## Program view:
+![image](https://github.com/user-attachments/assets/f40a4a91-dcdb-4633-a37a-bdc9e39a1296)
